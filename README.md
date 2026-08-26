@@ -1,4 +1,7 @@
-<h1 align="center"> Hey there !!! I'm Aiswarya Mohan👋</h1>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=a-123-m&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<h1 align="center"> Hey there !!! I'm Aiswarya Mohan👋 </h1>
 <p align="center">
   <img width="747" height="400" alt="image" src="https://github.com/user-attachments/assets/2b7e88fd-0922-4a22-9fad-3540eb15514d" />
 </p>
