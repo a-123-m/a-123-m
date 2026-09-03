@@ -56,6 +56,7 @@
     <li>📊Telecom Customer Churn Analysis : <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
      <li>🍶 Amul- The Taste of India Business Analytics Dashboard : <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Amul---The-Taste-of-India-Business-Analytics-Dashboard/tree/main">View Repository</a> </li>
       <li>🏬 Ajio Ecommerce Online Shopping Dashboard : <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Ajio-Ecommerce-Online-Shopping-Dashboard---Excel-SQL-and-PowerBI">View Repository</a> </li> 
+      <li>🏢 Supply Chain Data Analysis Python Project : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="vertical-align: middle;"> <a href="https://github.com/a-123-m/Supply-Chain-Data-Analysis-Python-Project">View Repository</a> </li>
     
    </ol>
 
