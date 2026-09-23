@@ -33,17 +33,26 @@
 </ul>
 
 <h2>🛠️ Skills & Tools </h2>
-<h5><b><u> DATA ANALYSIS </u></b> </h5>
+<h4><b><u> DATA ANALYSIS </u></b> </h4>
 <ul>
 <li>Microsoft Excel</li>
 <li>SQL (Structured Query Language) </li>
 <li>Python </li>
 </ul>
 
-<h5><b><u> DATA VISUALIZATION </u></b> </h5>
+<h4><b><u> DATA VISUALIZATION </u></b> </h4>
 <ul>
 <li>Power BI</li>
 <li>Tableau</li>
+</ul>
+
+<h4><b><u> AI POWERED ANALYTICS </u></b> </h4>
+<ul>
+<li>Prompt Engineering</li>
+<li>Claude (Anthropic)</li>
+<li>ChatGPT Codex </li>
+<li>Gemini </li>
+<li>Copilot </li>
 </ul>
 
 <h2>💻Projects</h2>
