@@ -67,7 +67,7 @@
       <li>🏢 Supply Chain Data Analysis Python Project : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="vertical-align: middle;"> <a href="https://github.com/a-123-m/Supply-Chain-Data-Analysis-Python-Project">View Repository</a> </li>
          <li>📊Telecom Customer Churn Analysis : <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">  <a href="https://github.com/a-123-m/Telecom-Customer-Churn-Analysis-using-PostgreSQL">View Repository</a> </li>
     <li>🚴🏻‍♀️Decathlon India Sales Performance Dashboard : <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" style="vertical-align: middle;"> <a href="https://github.com/a-123-m/Decathlon-India-Sales-Performance-Dashboard">View Repository</a> </li>
-    
+  
    </ol>
 
   <h2> PRACTICE PROJECTS </h2>
