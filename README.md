@@ -79,6 +79,7 @@
     <li>🎶 My Spotify-Streaming-History-Dashboard : <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Spotify-Streaming-History-Dashboard">View Repository</a> </li> 
      <li>🏥 Hospital Analysis Dashboard : <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Hospital-Analysis-Dashboard-PowerBI">View Repository</a> </li> 
      <li>🏬 Online Shop 2024 : <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/OnlineShop-2024-Practice-Project---SQL-and-PowerBI">View Repository</a> </li> 
+          <li>☕︎ Cafe-Sales-Performance-and-Profitability-Analysis-Dashboard : <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <a href="https://github.com/a-123-m/Cafe-Sales-Performance-and-Profitability-Analysis-Dashboard">View Repository</a> </li>
   </ol>
    
 </div>
