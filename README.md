@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=a-123-m)
 <h1 align="center"> Hey there !!! I'm Aiswarya Mohan👋 </h1>
 <p align="center">
-  <img width="747" height="400" alt="image" src="https://github.com/user-attachments/assets/2b7e88fd-0922-4a22-9fad-3540eb15514d" />
+  <img width="747" height="400" alt="imggg" src="https://github.com/user-attachments/assets/a8500242-e8a6-4141-98f5-860d1c2b12ab" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
